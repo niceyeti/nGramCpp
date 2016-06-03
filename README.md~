@@ -1,0 +1,9 @@
+This is that last, most recent n-gram implementation among many old ones.
+
+Update this one with any changes found elsewhere.
+
+TODO: Factor out the text parser components into their own class.
+
+
+
+
